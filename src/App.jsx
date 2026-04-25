@@ -284,7 +284,10 @@ export default function App() {
           Survei Digitalisasi
         </h1>
         <h2 className="text-2xl md:text-3xl font-medium text-cyan-400 text-center mb-6">
-          Madrasah Bireuen
+          Madrasah Kab. Bireuen
+        </h2>
+        <h2 className="text-xl font-semibold text-white mb-2">
+          by. Ridwan, S.ST, M.T
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-2xl mt-10">
