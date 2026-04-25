@@ -287,7 +287,7 @@ export default function App() {
           Madrasah Kab. Bireuen
         </h2>
         <h2 className="text-xl font-semibold text-white mb-2">
-          by. Ridwan, S.ST, M.T
+          Create by. Ridwan, S.ST, M.T
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-2xl mt-10">
